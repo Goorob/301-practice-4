@@ -1,0 +1,20 @@
+{
+  "name": "301-practice-4",
+  "version": "1.0.0",
+  "description": "**1.In an express server application, what does dotenv do**",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app.js "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Goorob/301-practice-4.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Goorob/301-practice-4/issues"
+  },
+  "homepage": "https://github.com/Goorob/301-practice-4#readme"
+}
